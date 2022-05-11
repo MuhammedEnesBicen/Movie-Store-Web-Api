@@ -1,0 +1,52 @@
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.csproj.AssemblyReference.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.AssemblyInfoInputs.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.AssemblyInfo.cs
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.csproj.CoreCompileInputs.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\appsettings.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.exe
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.deps.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.runtimeconfig.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.runtimeconfig.dev.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Movie Store Web Api.pdb
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\scopedcss\bundle\Movie Store Web Api.styles.css
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\staticwebassets\Movie Store Web Api.StaticWebAssets.Manifest.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.RazorTargetAssemblyInfo.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.csproj.CopyComplete
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\refint\Movie Store Web Api.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.pdb
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\Movie Store Web Api.genruntimeconfig.cache
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\obj\Debug\net5.0\ref\Movie Store Web Api.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\libman.json
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\enesbicen\source\repos\Movie Store Web Api\Movie Store Web Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
