@@ -8,7 +8,8 @@
 - Unit testing
 - Dependency Injection
 - Middleware operations
-was been used. And for unit testing XUnit has been used. Project was developed in .Net 5 version.
+
+has been used. And for unit testing XUnit has been used. Project was developed in .Net 5 version.
 
 ## Web Api Dependencies
 - AutoMapper
@@ -27,5 +28,4 @@ was been used. And for unit testing XUnit has been used. Project was developed i
 - Microsoft.NET.Test.Sdk Version="16.9.4" 
 
 ### Endpoints in Swagger
-
-apiswagger
+![End Points](https://github.com/MuhammedEnesBicen/Movie-Store-Web-Api/blob/master/apiswagger.jpg)
